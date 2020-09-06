@@ -12,7 +12,7 @@ public class Base {
 
     static ThreadLocal<RemoteWebDriver> driver=new ThreadLocal<>();
     public CapabilityFactory capabilityFactory=new CapabilityFactory();
-String grid="false";
+
     @BeforeMethod
     @Parameters(value={"browser"})
     public void setupBrowser(String browser) throws MalformedURLException {
