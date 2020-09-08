@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-06T21:01:16Z" name="CITest" finished-at="2020-09-06T21:01:27Z" duration-ms="11570">
+  <suite started-at="2020-09-08T19:15:21Z" name="CITest" finished-at="2020-09-08T19:15:38Z" duration-ms="16543">
     <groups>
     </groups>
-    <test started-at="2020-09-06T21:01:16Z" name="CITestNG" finished-at="2020-09-06T21:01:27Z" duration-ms="11570">
+    <test started-at="2020-09-08T19:15:21Z" name="CITestNG" finished-at="2020-09-08T19:15:38Z" duration-ms="16543">
       <class name="CITest">
-        <test-method is-config="true" signature="setupBrowser(java.lang.String)[pri:0, instance:CITest@459e9125]" started-at="2020-09-06T21:01:16Z" name="setupBrowser" finished-at="2020-09-06T21:01:18Z" duration-ms="2628" status="PASS">
+        <test-method is-config="true" signature="setupBrowser(java.lang.String)[pri:0, instance:CITest@223d2c72]" started-at="2020-09-08T19:15:21Z" name="setupBrowser" finished-at="2020-09-08T19:15:26Z" duration-ms="4854" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupBrowser -->
-        <test-method signature="CITest1()[pri:0, instance:CITest@459e9125]" started-at="2020-09-06T21:01:18Z" name="CITest1" finished-at="2020-09-06T21:01:27Z" duration-ms="8827" status="PASS">
+        <test-method signature="CITest1()[pri:0, instance:CITest@223d2c72]" started-at="2020-09-08T19:15:26Z" name="CITest1" finished-at="2020-09-08T19:15:37Z" duration-ms="11507" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CITest1 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:CITest@459e9125]" started-at="2020-09-06T21:01:27Z" name="tearDown" finished-at="2020-09-06T21:01:27Z" duration-ms="81" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:CITest@223d2c72]" started-at="2020-09-08T19:15:37Z" name="tearDown" finished-at="2020-09-08T19:15:38Z" duration-ms="120" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="terminate()[pri:0, instance:CITest@459e9125]" started-at="2020-09-06T21:01:27Z" name="terminate" finished-at="2020-09-06T21:01:27Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="terminate()[pri:0, instance:CITest@223d2c72]" started-at="2020-09-08T19:15:38Z" name="terminate" finished-at="2020-09-08T19:15:38Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminate -->

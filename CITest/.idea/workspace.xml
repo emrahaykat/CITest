@@ -21,26 +21,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            <state relative-caret-position="323">
+              <caret line="19" column="76" lean-forward="true" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#985#986#0" expanded="true" />
+                <element signature="e#831#832#0" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CapabilityFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="187">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/OptionsManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="51">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -57,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CITest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,10 +113,11 @@
       <list>
         <option value="$PROJECT_DIR$/runTest.xml" />
         <option value="$PROJECT_DIR$/src/main/java/runTest.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Base.java" />
         <option value="$PROJECT_DIR$/.idea/settings.xml" />
         <option value="$PROJECT_DIR$/src/main/java/CITest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/OptionsManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Base.java" />
       </list>
     </option>
   </component>
@@ -205,7 +206,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599590311281" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599593228591" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -237,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/emrahaykat/Desktop/OMS/CITest/src/runTest.xml">
+  <component name="RunManager" selected="TestNG.CITest">
     <configuration name="Base" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CITest" />
       <option name="PACKAGE_NAME" value="" />
@@ -248,12 +249,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Base.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CITest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CITest" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Base" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="CITest" />
       <properties />
       <listeners />
       <method v="2">
@@ -294,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CITest" />
+        <item itemvalue="TestNG.CITest.CITest1" />
         <item itemvalue="TestNG./Users/emrahaykat/Desktop/OMS/CITest/src/runTest.xml" />
         <item itemvalue="TestNG./Users/emrahaykat/Desktop/OMS/CITest/src/main/java/runTest.xml" />
-        <item itemvalue="TestNG.CITest.CITest1" />
         <item itemvalue="TestNG.Base" />
-        <item itemvalue="TestNG.Base.test" />
       </list>
     </recent_temporary>
   </component>
@@ -316,21 +315,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_emrahaykat_Desktop_OMS_CITest_src_main_java_runTest_xml - 2020.09.06 at 23h 19m 43s.xml">
-      <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/main/java/runTest.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_emrahaykat_Desktop_OMS_CITest_src_main_java_runTest_xml - 2020.09.06 at 23h 21m 03s.xml">
-      <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/main/java/runTest.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_emrahaykat_Desktop_OMS_CITest_src_main_java_runTest_xml - 2020.09.06 at 23h 22m 31s.xml">
-      <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/main/java/runTest.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_emrahaykat_Desktop_OMS_CITest_src_runTest_xml - 2020.09.06 at 23h 47m 02s.xml">
-      <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/runTest.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_emrahaykat_Desktop_OMS_CITest_src_runTest_xml - 2020.09.07 at 21h 21m 10s.xml">
-      <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/runTest.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_emrahaykat_Desktop_OMS_CITest_src_runTest_xml - 2020.09.07 at 22h 12m 15s.xml">
       <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/runTest.xml" configurationId="TestNG" />
     </history-entry>
@@ -345,6 +329,21 @@
     </history-entry>
     <history-entry file="_Users_emrahaykat_Desktop_OMS_CITest_src_runTest_xml - 2020.09.07 at 23h 19m 18s.xml">
       <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/runTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CITest_CITest1 - 2020.09.08 at 22h 05m 56s.xml">
+      <configuration name="CITest.CITest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CITest_CITest1 - 2020.09.08 at 22h 10m 02s.xml">
+      <configuration name="CITest.CITest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CITest_CITest1 - 2020.09.08 at 22h 11m 18s.xml">
+      <configuration name="CITest.CITest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CITest_CITest1 - 2020.09.08 at 22h 12m 59s.xml">
+      <configuration name="CITest.CITest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CITest - 2020.09.08 at 22h 13m 15s.xml">
+      <configuration name="CITest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -424,23 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OptionsManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -448,23 +430,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Base.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/OptionsManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        <state relative-caret-position="51">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#985#986#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CapabilityFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="187">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="76" lean-forward="true" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

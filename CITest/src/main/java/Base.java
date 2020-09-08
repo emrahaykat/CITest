@@ -17,7 +17,7 @@ public class Base {
     @Parameters(value={"browser"})
     public void setupBrowser(String browser) throws MalformedURLException {
 
-        driver.set(new RemoteWebDriver(new URL("http://127.0.0.1:4444/wd/hub "),
+        driver.set(new RemoteWebDriver(new URL("http://127.0.0.1:4444/wd/hub"),
                 capabilityFactory.getCapabilities(browser)));
     }
 
