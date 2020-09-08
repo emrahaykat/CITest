@@ -205,7 +205,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599509930781" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599588009920" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -316,9 +316,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CITest_CITest1 - 2020.09.06 at 23h 14m 50s.xml">
-      <configuration name="CITest.CITest1" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_emrahaykat_Desktop_OMS_CITest_src_main_java_runTest_xml - 2020.09.06 at 23h 19m 43s.xml">
       <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/main/java/runTest.xml" configurationId="TestNG" />
     </history-entry>
@@ -344,6 +341,9 @@
       <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/runTest.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="_Users_emrahaykat_Desktop_OMS_CITest_src_runTest_xml - 2020.09.07 at 22h 59m 20s.xml">
+      <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/runTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_emrahaykat_Desktop_OMS_CITest_src_runTest_xml - 2020.09.07 at 23h 19m 18s.xml">
       <configuration name="/Users/emrahaykat/Desktop/OMS/CITest/src/runTest.xml" configurationId="TestNG" />
     </history-entry>
   </component>
